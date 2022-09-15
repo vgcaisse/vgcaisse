@@ -5,7 +5,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [ContactLinks](#contact-links)
+* [ContactLinks](#contact-me)
 
 ## General info
 I started out as a Graphic Designer, certified in the Adobe Cloud. I mostly do a bit of everything, a jack of all trades. I have 2+ years of experience as a Head Graphic Designer working for Simple & Good Co. managing the production of advertising material and general design.
