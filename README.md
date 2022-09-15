@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Visnu Caisse
-- 🌱 I’m currently learning CSS and HTML
+- 🌱 I am a CSS, HTML, Javascript Dev
 - 📫 How to reach me @ vgcaissee@gmail.com
 
 <!---
