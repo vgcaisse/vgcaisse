@@ -1,30 +1,26 @@
-- 👋 Hi, I’m Visnu Caisse
-- 🌱 I am a CSS, HTML, Javascript Dev
-- 📫 How to reach me @ vgcaissee@gmail.com
+									## Visnu Caisse
+- I am a CSS, HTML, React.js, Node.js, and Javascript Dev
+- You can reach me @ vgcaissee@gmail.com or visit my LinkedIn profile @ https://www.linkedin.com/in/visnu-caisse/
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [ContactLinks](#contact-links)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+I started out as a Graphic Designer, certified in the Adobe Cloud. I mostly do a bit of everything, a jack of all trades. I have 2+ years of experience as a Head Graphic Designer working for Simple & Good Co. managing the production of advertising material and general design.
+I am now also a Full-Stack Developer with a base experience in CSS and HTML. I look forward to honing my skills as I continue using Node.js, Javascript, and React.js in future projects.
 	
 ## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+I am mostly proficient with:
+* CSS
+* HTML
+* React.js
+* Javascript
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-
+## Contact Me:
+- vgcaissee@gmail.com
+- https://www.linkedin.com/in/visnu-caisse/
 
 <!---
 vgcaisse/vgcaisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
